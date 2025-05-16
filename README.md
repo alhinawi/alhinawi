@@ -1,14 +1,15 @@
 <!-- README for @alhinawi | Modern MERN Dev Portfolio -->
 
-<h1 align="center">
+<h2 align="center">
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="120" />
-  Hi 👋 I'm Mohamed Alhinawi (3asfuur)
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="120" />
-</h1>
-
-<p align="center">
   Full-Stack Developer • MERN Stack Specialist • Tech Addict
-</p>
+<!--   Hi 👋 I'm Mohamed Alhinawi (3asfuur) -->
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="120" />
+</h2>
+
+<!-- <p align="center">
+  Full-Stack Developer • MERN Stack Specialist • Tech Addict 
+<!-- </p> -->
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=450&lines=Building+cool+stuff+with+MERN;I+love+clean+code+and+scalable+apps;Always+learning+and+evolving" alt="Typing SVG" />
