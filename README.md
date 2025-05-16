@@ -12,21 +12,63 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=450&lines=Building+cool+stuff+with+MERN;I+love+clean+code+and+scalable+apps;Always+learning+and+evolving" alt="Typing SVG" />
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="300"/>
+</div>
+
 ---
 
 # 🚀 Major Projects:
-## 🎯  <a href="https://elite909.netlify.app/">Elite Clothing Store</a>
-
+## 🎯  <a href="https://elite909.netlify.app/" target="_blank">Elite Clothing Store</a>
 ## 🧠  Todo App with JWT Auth
-
 ## 📦  RESTful APIs Boilerplate
+
+---
+
+# 🧰 Tech Stack & Skills:
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
+---
 
 # 📊 GitHub Stats:
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=alhinawi&theme=tokyonight&show_icons=true" height="180"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=alhinawi&theme=tokyonight" height="180"/> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alhinawi&theme=tokyonight&show_icons=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=alhinawi&theme=tokyonight" height="180"/>
+</p>
 
-#  📬 Contact Me:
+---
 
-<p align="center"> <a href="mailto:alhinaawi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://github.com/alhinawi"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a> </p>
-<p align="center"> 💻 Built with 💙 using React & Node - Powered by strong tea and late nights. </p> 
+# 📬 Contact Me:
+
+<p align="center">
+  <a href="mailto:alhinaawi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mohamedalhinawi/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/201028928248" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">💻 Built with 💙 using React & Node - Powered by strong tea and late nights.</p>
+
 
