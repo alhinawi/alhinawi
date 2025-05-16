@@ -15,7 +15,7 @@
 ---
 
 # 🚀 Projects
-## 🎯  Smart Village System
+## 🎯  <a href="www.google.com">Smart Village System</a>
 
 ## 🧠  Todo App with JWT Auth
 
