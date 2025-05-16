@@ -15,7 +15,7 @@
 ---
 
 # 🚀 Projects
-## 🎯  <a href="www.google.com">Smart Village System</a>
+## 🎯  <a href="https://elite909.netlify.app/">Elite Clothing Store</a>
 
 ## 🧠  Todo App with JWT Auth
 
