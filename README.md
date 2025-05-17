@@ -38,15 +38,14 @@
 
  --- 
  
+<img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" align="right" width="50%">
+ 
 <h3> 🚀 Major Projects : </h3>
 <h3> 🎯 <a href="https://elite909.netlify.app/" style="text-decoration: none;">Elite Clothing Store</a> </h3>
 <h3> 🧠 <a href="https://todolist-app-react.netlify.app/" style="text-decoration: none;">Todo App with JWT Auth</a> </h3>
 <h3> 📦 <a href="#" style="text-decoration: none;">RESTful APIs Boilerplate</a> </h3>
 
 ---
-
-
-
 > <p align="left"> Reach ME</p>
 <p align="center">
   <a href="mailto:alhinaawi@gmail.com">
@@ -60,12 +59,10 @@
   </a>
 </p>
 
-<div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif"   width="50%">
-<br>
-</div>
+
+---
 <!--   <p align="center">💻 Built with 💙 using React & Node </p> -->
 <p  align="center"> 💻 Powered by strong tea and late nights. 💙</p>
 
-
+---
