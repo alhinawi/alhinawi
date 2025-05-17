@@ -15,7 +15,7 @@
 
 
 
-# 🧰 Tech Stack & Skills:
+# 🧰 Tech Stack & Skills :
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -37,7 +37,7 @@
 
  --- 
  
-<h1> 🚀 Major Projects: </h1>
+<h1> 🚀 Major Projects : </h1>
 <h2> 🎯 <a href="https://elite909.netlify.app/" style="text-decoration: none;">Elite Clothing Store</a> </h2>
 <h2> 🧠 <a href="https://elite909.netlify.app/" style="text-decoration: none;">Todo App with JWT Auth</a> </h2>
 <h2> 📦 <a href="https://elite909.netlify.app/" style="text-decoration: none;">RESTful APIs Boilerplate</a> </h2>
@@ -46,7 +46,6 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="100%" align="center">
 
-# 📬 Contact Me:
 
 <p align="center">
   <a href="mailto:alhinaawi@gmail.com">
@@ -62,6 +61,6 @@
 
 ---
 
-<p align="center">💻 Built with 💙 using React & Node - Powered by strong tea and late nights.</p>
+## <p align="center">💻 Built with 💙 using React & Node - Powered by strong tea and late nights.</p>
 
 
