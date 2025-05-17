@@ -37,8 +37,9 @@
  --- 
  
 <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" align="right">
---- 
- <div>
+
+
+ <div align="left">
 <h4> 🚀 Major Projects : </h4>
 <h5> 🎯 <a href="https://elite909.netlify.app/" style="text-decoration: none;">Elite Clothing Store</a> </h5>
 <h5> 🧠 <a href="https://todolist-app-react.netlify.app/" style="text-decoration: none;">Todo App with JWT Auth</a> </h5>
@@ -46,6 +47,7 @@
 </div>
 
 ---
+
 > <p align="left"> Reach ME</p>
 <p align="center">
   <a href="mailto:alhinaawi@gmail.com">
