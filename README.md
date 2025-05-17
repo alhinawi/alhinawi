@@ -36,7 +36,7 @@
 
 <!-- Projects Section -->
 > <div>
-<img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" align="right" width="37%" height="20%">
+<img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" align="right" width="37%" height="30%">
 
   <h5>🚀 Major Projects :</h4>
   <h6>🎯 <a href="https://elite909.netlify.app/" style="text-decoration: none;">Elite Clothing Store</a></h6>
