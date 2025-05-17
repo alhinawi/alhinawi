@@ -37,7 +37,7 @@
  --- 
  
 <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" align="right" width="41%">
- <div width="50%">
+ <div width="40%">
 <h3> 🚀 Major Projects : </h3>
 <h3> 🎯 <a href="https://elite909.netlify.app/" style="text-decoration: none;">Elite Clothing Store</a> </h4>
 <h4> 🧠 <a href="https://todolist-app-react.netlify.app/" style="text-decoration: none;">Todo App with JWT Auth</a> </h4>
