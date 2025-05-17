@@ -38,7 +38,7 @@
 
  --- 
  
-## <h2> 🚀 Major Projects : </h2>
+<h3> 🚀 Major Projects : </h3>
 <h3> 🎯 <a href="https://elite909.netlify.app/" style="text-decoration: none;">Elite Clothing Store</a> </h3>
 <h3> 🧠 <a href="https://todolist-app-react.netlify.app/" style="text-decoration: none;">Todo App with JWT Auth</a> </h3>
 <h3> 📦 <a href="#" style="text-decoration: none;">RESTful APIs Boilerplate</a> </h3>
