@@ -1,11 +1,10 @@
 <h2 align="center">
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="130" />
-  Full-Stack Developer • MERN Stack Specialist • Tech Addict
   <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="130" />
-  
-<!--   Hi 👋 I'm Mohamed Alhinawi (3asfuur) -->
+                                    Full-Stack Developer • MERN Stack Specialist • Tech Addict
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="130" />
 
 </h2>
+<!--   Hi 👋 I'm Mohamed Alhinawi (3asfuur) -->
 
 
 <div align="center">
@@ -13,9 +12,7 @@
 </div>
 
 
-
-
-# 🧰 Tech Stack & Skills :
+ # 🧰 Tech Stack & Skills :
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -46,7 +43,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="100%" align="center">
 
-
+> Contact Me
 <p align="center">
   <a href="mailto:alhinaawi@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
