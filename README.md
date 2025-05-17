@@ -52,14 +52,13 @@
   <a href="mailto:alhinaawi@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/alhinawi/" target="_blank">
+  <a href="https://www.linkedin.com/in/alhinawi/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://wa.me/201028928248" target="_blank">
+  <a href="https://wa.me/201028928248">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
-
 
 
  <p align="center">💻 Built with 💙 using React & Node - Powered by strong tea and late nights.</p>
