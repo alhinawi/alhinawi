@@ -34,11 +34,9 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 
-
-
  --- 
  
-<img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" align="right" width="50%">
+<img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" align="right" width="41%">
  
 <h3> 🚀 Major Projects : </h3>
 <h3> 🎯 <a href="https://elite909.netlify.app/" style="text-decoration: none;">Elite Clothing Store</a> </h3>
@@ -59,10 +57,8 @@
   </a>
 </p>
 
-
-
 ---
-<!--   <p align="center">💻 Built with 💙 using React & Node </p> -->
-<p  align="center"> 💻 Powered by strong tea and late nights. 💙</p>
+<p align="center">💻 Built with 💙 using React & Node - Powered by strong tea and late nights. </p> 
+<p  align="center"></p>
 
 ---
