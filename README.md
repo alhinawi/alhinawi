@@ -1,22 +1,22 @@
-<!-- <p align="center"><img src="https://user-images.githubusercontent.com/74038190/215768933-8904f263-b421-4fd1-a5b0-83c1f07df757.png" width="200" /></p> -->
-<!-- <p align="center"><img src="https://user-images.githubusercontent.com/74038190/212907120-c72ded50-c4ef-4d96-8a23-e4b69757a907.jpg" width="200" /> </p> -->
+<!-- Current Avatar -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/219925478-f4cb33c8-1382-4529-89f7-8b08a14978fb.png" width="200" />
+</p>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/74038190/219925478-f4cb33c8-1382-4529-89f7-8b08a14978fb.png" width="200" /></p> 
+<!-- Title -->
 <h4 align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="73" />
-<!--                          Full-Stack Developer • MERN Stack Specialist • Tech Addict --> MERN Stack Developer
+  MERN Stack Developer
   <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="73" />
-
 </h4>
-<!--   Hi 👋 I'm Mohamed Alhinawi (3asfuur) -->
 
-
+<!-- Typing Animation -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=450&lines=Building+cool+stuff+with+MERN;I+love+clean+code+and+scalable+apps;Always+learning+and+evolving" alt="Typing SVG" />
 </div>
 
-
-## My Weapons  🧰
+<!-- Skills -->
+## My Weapons 🧰
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -28,27 +28,27 @@
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<!--   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> -->
-<!--   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/> -->
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 
- --- 
- 
+---
+
+<!-- Projects Section -->
 <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" align="right">
 
-
- <div>
-<h4> 🚀 Major Projects : </h4>
-<h5> 🎯 <a href="https://elite909.netlify.app/" style="text-decoration: none;">Elite Clothing Store</a> </h5>
-<h5> 🧠 <a href="https://todolist-app-react.netlify.app/" style="text-decoration: none;">Todo App with JWT Auth</a> </h5>
-<h5> 📦 <a href="#" style="text-decoration: none;">RESTful APIs Boilerplate</a> </h5>
+<div>
+  <h4>🚀 Major Projects :</h4>
+  <h5>🎯 <a href="https://elite909.netlify.app/" style="text-decoration: none;">Elite Clothing Store</a></h5>
+  <h5>🧠 <a href="https://todolist-app-react.netlify.app/" style="text-decoration: none;">Todo App with JWT Auth</a></h5>
+  <h5>📦 <a href="#" style="text-decoration: none;">RESTful APIs Boilerplate</a></h5>
 </div>
 
 ---
 
-> <p align="left"> Reach ME</p>
+<!-- Contact Section -->
+> <p align="left">Reach ME</p>
+
 <p align="center">
   <a href="mailto:alhinaawi@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -63,7 +63,5 @@
 
 ---
 
-<p align="center">💻 Built with 💙 using React & Node - Powered by strong tea and late nights. </p> 
-<p  align="center"></p>
-
----
+<!-- Footer -->
+<p align="center">💻 Built with 💙 using React & Node - Powered by strong tea and late nights.</p>
