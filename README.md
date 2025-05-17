@@ -1,3 +1,4 @@
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/215768933-8904f263-b421-4fd1-a5b0-83c1f07df757.png" width="200" /></p>
 <h2 align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="130" />
                          Full-Stack Developer • MERN Stack Specialist • Tech Addict
