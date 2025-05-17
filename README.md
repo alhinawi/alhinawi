@@ -45,8 +45,7 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif"  align="right" width="50%">
-<br>
+
 
 > <p align="left"> Reach ME</p>
 <p align="center">
@@ -61,8 +60,9 @@
   </a>
 </p>
 
-
- > <p align="center">💻 Built with 💙 using React & Node </p>
-> <p  align="center"> Powered by strong tea and late nights.</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif"  align="right" width="50%">
+<br>
+  <p align="center">💻 Built with 💙 using React & Node </p>
+<p  align="center"> Powered by strong tea and late nights.</p>
 
 
