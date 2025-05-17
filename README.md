@@ -15,14 +15,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=450&lines=Building+cool+stuff+with+MERN;I+love+clean+code+and+scalable+apps;Always+learning+and+evolving" alt="Typing SVG" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="450" align="right">
 
 
 
 ---
 
 # 🚀 Major Projects:
-## 🎯  <a href="https://elite909.netlify.app/" target="_blank">Elite Clothing Store</a>
+## 🎯  <a href="https://elite909.netlify.app/" align="left">Elite Clothing Store</a>
 ## 🧠  Todo App with JWT Auth
 ## 📦  RESTful APIs Boilerplate
 
