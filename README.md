@@ -1,6 +1,6 @@
 <!-- Current Avatar -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/219925478-f4cb33c8-1382-4529-89f7-8b08a14978fb.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/219925478-f4cb33c8-1382-4529-89f7-8b08a14978fb.png" width="150" />
 </p>
 
 <!-- Title -->
