@@ -60,9 +60,12 @@
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif"  align="right" width="50%">
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif"   width="50%">
 <br>
+</div>
 <!--   <p align="center">💻 Built with 💙 using React & Node </p> -->
-<p  align="center"> Powered by strong tea and late nights. 💙</p>
+<p  align="center"> 💻 Powered by strong tea and late nights. 💙</p>
 
 
