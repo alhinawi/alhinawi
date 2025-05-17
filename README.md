@@ -4,11 +4,11 @@
 </p>
 
 <!-- Title -->
-<h4 align="center">
+<h3 align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="73" />
                                                                   MERN Stack Developer
   <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="73" />
-</h4>
+</h3>
 
 <!-- Typing Animation -->
 <div align="center">
