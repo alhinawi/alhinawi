@@ -47,12 +47,12 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif"  align="right">
 
-> Contact Me
+
 <p align="center">
   <a href="mailto:alhinaawi@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/mohamedalhinawi/" target="_blank">
+  <a href="https://www.linkedin.com/in/alhinawi/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://wa.me/201028928248" target="_blank">
