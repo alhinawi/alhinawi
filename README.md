@@ -12,7 +12,7 @@
 
 <!-- Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=455&lines=Building+cool+stuff+with+MERN;I+love+clean+code+and+scalable+apps;Always+learning+and+evolving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=457&lines=Building+cool+stuff+with+MERN;I+love+clean+code+and+scalable+apps;Always+learning+and+evolving" alt="Typing SVG" />
 </div>
 
 <!-- Skills -->
