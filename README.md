@@ -1,5 +1,3 @@
-<!-- README for @alhinawi | Modern MERN Dev Portfolio -->
-
 <h2 align="center">
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="120" />
   Full-Stack Developer • MERN Stack Specialist • Tech Addict
@@ -7,26 +5,13 @@
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="120" />
 </h2>
 
-<!-- <p align="center">
-  Full-Stack Developer • MERN Stack Specialist • Tech Addict 
-<!-- </p> -->
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=450&lines=Building+cool+stuff+with+MERN;I+love+clean+code+and+scalable+apps;Always+learning+and+evolving" alt="Typing SVG" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="450" align="right">
 
 
-
----
-
-# 🚀 Major Projects:
-## 🎯  <a href="https://elite909.netlify.app/" align="left">Elite Clothing Store</a>
-## 🧠  Todo App with JWT Auth
-## 📦  RESTful APIs Boilerplate
-
----
 
 # 🧰 Tech Stack & Skills:
 
@@ -47,14 +32,16 @@
 
 ---
 
-# 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alhinawi&theme=tokyonight&show_icons=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=alhinawi&theme=tokyonight" height="180"/>
-</p>
+ --- 
+ 
+<h1> 🚀 Major Projects: </h1>
+<h2> 🎯 <a href="https://elite909.netlify.app/" style="text-decoration: none;">Elite Clothing Store</a> </h2>
+<h2> 🧠 <a href="https://elite909.netlify.app/" style="text-decoration: none;">Todo App with JWT Auth</a> </h2>
+<h2> 📦 <a href="https://elite909.netlify.app/" style="text-decoration: none;">RESTful APIs Boilerplate</a> </h2>
 
 ---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="100%" align="center">
 
 # 📬 Contact Me:
 
