@@ -16,7 +16,7 @@
 </div>
 
 
- >  My Weapons  🧰
+## My Weapons  🧰
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -38,10 +38,10 @@
 
  --- 
  
-<h1> 🚀 Major Projects : </h1>
-<h2> 🎯 <a href="https://elite909.netlify.app/" style="text-decoration: none;">Elite Clothing Store</a> </h2>
-<h2> 🧠 <a href="https://todolist-app-react.netlify.app/" style="text-decoration: none;">Todo App with JWT Auth</a> </h2>
-<h2> 📦 <a href="#" style="text-decoration: none;">RESTful APIs Boilerplate</a> </h2>
+## <h2> 🚀 Major Projects : </h2>
+<h3> 🎯 <a href="https://elite909.netlify.app/" style="text-decoration: none;">Elite Clothing Store</a> </h3>
+<h3> 🧠 <a href="https://todolist-app-react.netlify.app/" style="text-decoration: none;">Todo App with JWT Auth</a> </h3>
+<h3> 📦 <a href="#" style="text-decoration: none;">RESTful APIs Boilerplate</a> </h3>
 
 ---
 
