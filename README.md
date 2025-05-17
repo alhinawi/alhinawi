@@ -37,7 +37,7 @@
 <h1> 🚀 Major Projects : </h1>
 <h2> 🎯 <a href="https://elite909.netlify.app/" style="text-decoration: none;">Elite Clothing Store</a> </h2>
 <h2> 🧠 <a href="https://elite909.netlify.app/" style="text-decoration: none;">Todo App with JWT Auth</a> </h2>
-<h2> 📦 <a href="https://elite909.netlify.app/" style="text-decoration: none;">RESTful APIs Boilerplate</a> </h2>
+<h2> 📦 <a href="#" style="text-decoration: none;">RESTful APIs Boilerplate</a> </h2>
 
 ---
 
