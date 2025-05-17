@@ -62,6 +62,7 @@
 </p>
 
 
- <p align="center">💻 Built with 💙 using React & Node - Powered by strong tea and late nights.</p>
+ > <p align="center">💻 Built with 💙 using React & Node </p>
+> <p  align="center"> Powered by strong tea and late nights.</p>
 
 
