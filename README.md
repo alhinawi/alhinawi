@@ -35,7 +35,7 @@
 ---
 
 <!-- Projects Section -->
-<img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" align="right" width="37%" height="10%">
+<img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" align="right" width="37%" height="20%">
 
 > <div>
   <h5>🚀 Major Projects :</h4>
