@@ -38,9 +38,9 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" align="right" width="35%" height="30%">
 
   <h5>🚀 Major Projects :</h4>
-  <h6>🎯 <a href="https://elite909.netlify.app/" style="text-decoration: none;">Elite Clothing Store</a></h6>
-  <h6>🧠 <a href="https://todolist-app-react.netlify.app/" style="text-decoration: none;">Todo App with JWT Auth</a></h6>
-  <h6>📦 <a href="#">RESTful APIs Boilerplate</a></h6>
+  <h6>🛒 <a href="#" style="text-decoration: none;">Enterprise E-Commerce Platform</a></h6>
+  <h6>📊 <a href="#">Analytics & Admin Dashboard</a></h6>
+  <h6>⚡ <a href="#">Enterprise Resource Planning (ERP)</a></h6>
 </div>
 
 
