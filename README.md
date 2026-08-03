@@ -39,7 +39,7 @@
 
   <h5>🚀 Major Projects :</h4>
   <h6>🛒 <a href="#" style="text-decoration: none;">Enterprise E-Commerce Platform</a></h6>
-  <h6>📊 <a href="https://github.com/alhinawi/ProductsHub-Dashboard">Analytics & Admin Dashboard</a></h6>
+  <h6>📊 <a href="https://productshub-dashboard.vercel.app/">Analytics & Admin Dashboard</a></h6>
   <h6>🏗️ <a href="#">Enterprise Resource Planning (ERP)</a></h6>
 </div>
 
