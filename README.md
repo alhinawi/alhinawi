@@ -38,7 +38,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" align="right" width="35%" height="30%">
 
   <h5>🚀 Major Projects :</h4>
-  <h6>🛒 <a href="qaryaty.vercel.app" style="text-decoration: none;">Qaryaty - Smart Village Platform</a></h6>
+  <h6>🛒 <a href="https://qaryaty.vercel.app" style="text-decoration: none;">Qaryaty - Smart Village Platform</a></h6>
   <h6>📊 <a href="https://admindash-hinawi.vercel.app/" target="_blank">AdminDash - Analytics & Admin Dashboard</a></h6>
   <h6>🏗️ <a href="#">Enterprise Resource Planning (ERP)</a></h6>
 </div>
