@@ -45,7 +45,7 @@
 
   <h5>🚀 Major Projects :</h4>
   <h6>🛒 <a href="https://qaryaty.vercel.app" style="text-decoration: none;">Qaryaty - Smart Village Platform</a></h6>
-  <h6>📊 <a href="https://admindash-hinawi.vercel.app/" target="_blank">AdminDash - Analytics & Admin Dashboard</a></h6>
+  <h6>📊 <a href="https://dokkany.vercel.app/" target="_blank">Dokkany - E-commerce Admin Dashboard</a></h6>
   <h6>🏗️ <a href="#">Enterprise Resource Planning (ERP)</a></h6>
 </div>
 
