@@ -1,72 +1,22 @@
-<!-- Title -->
-<h4 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="73" />  
-                                                                  MERN Stack Developer
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="73" />
-</h4>
+# Mohamed Alhinawi
 
-<!-- Typing Animation -->
-<!--<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=460&lines=Building+cool+stuff+with+MERN;I+love+clean+code+and+scalable+apps;Always+learning+and+evolving" alt="Typing SVG" />
-</div> -->
+Full-stack developer. Selected live work:
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=460&lines=Hi%2C+I'm+Mohamed+Alhinawi;Building+cool+stuff+with+MERN;I+love+clean+code+and+scalable+apps;Always+learning+and+evolving" alt="Typing SVG" />
-</div>
+| Project | Live site | Focus |
+| --- | --- | --- |
+| Chesti | [chesti.pages.dev](https://chesti.pages.dev/) | Interactive chess learning and practice |
+| Henglish Academy | [henglish.pages.dev](https://henglish.pages.dev/) | Arabic-first English learning |
+| Lahjaty | [lahjaty.pages.dev](https://lahjaty.pages.dev/) | Arabic dialects and everyday phrases |
+| Dokkany | [dokkany.vercel.app](https://dokkany.vercel.app/) | Product dashboard and analytics demo |
+| Lbasy | [lbasy.pages.dev](https://lbasy.pages.dev/) | Second-hand clothing storefront |
+| Portfolio | [hinawi.pages.dev](https://hinawi.pages.dev/) | 3D portfolio and project work |
 
-<!-- Skills -->
-## Tech Stack 🧰
-
-<p align="center"> 
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React_Testing_Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
-</p>
+The projects use React/Next.js, TypeScript and Tailwind CSS; selected account services use Hono and Cloudflare D1. See each repository's README for its own setup and integration limits.
 
 ---
 
-<!-- Projects Section -->
-> <div>
-<img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" align="right" width="35%" height="30%">
+## Contact
 
-  <h5>🚀 Major Projects :</h4>
-  <h6>🛒 <a href="https://qaryaty.vercel.app" style="text-decoration: none;">Qaryaty - Smart Village Platform</a></h6>
-  <h6>📊 <a href="https://dokkany.vercel.app/" target="_blank">Dokkany - E-commerce Admin Dashboard</a></h6>
-  <h6>💬 <a href="https://henglish.vercel.app">Henglish Academy - English Learning Platform </a></h6>
-</div>
-
-
-
-<!-- Contact Section -->
-> <p align="left">Reach ME</p>
-
-<p align="center">
-  <a href="mailto:alhinaawi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/hinawi/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://wa.me/201028928248">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<!-- Footer -->
-<p align="center">💻 Built with 💙 using React & Node - Powered by strong tea and late nights.</p>
+- [LinkedIn](https://www.linkedin.com/in/hinawi/)
+- [Portfolio](https://hinawi.pages.dev/)
+- [Email](mailto:alhinaawi@gmail.com)
