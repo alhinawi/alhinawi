@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src=".github/fire.png" alt="Fire" width="50" />Mohamed Alhinawi<img src=".github/fire.png" alt="Fire" width="50" />
+# <img src=".github/fire.png" alt="Fire" width="30" />&nbsp;Mohamed&nbsp;Alhinawi&nbsp;<img src=".github/fire.png" alt="Fire" width="30" />
 
 ### Software Engineer - web apps, desktop apps and complete products on whatever stack fits, shipped end to end
 
