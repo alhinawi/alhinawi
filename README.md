@@ -2,7 +2,7 @@
 
 # Mohamed Alhinawi
 
-### Software Engineer - complete products on whatever stack fits, shipped end to end
+### <img src=".github/fire.png" alt="Fire" width="50" /> Software Engineer - complete products on whatever stack fits, shipped end to end <img src=".github/fire.png" alt="Fire" width="50" />
 
 [![Portfolio](https://img.shields.io/badge/portfolio-hinawi.pages.dev-111827?style=for-the-badge)](https://hinawi.pages.dev)
 
