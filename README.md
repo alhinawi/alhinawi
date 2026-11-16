@@ -6,6 +6,8 @@
 
 [![Portfolio](https://img.shields.io/badge/portfolio-hinawi.pages.dev-111827?style=for-the-badge)](https://hinawi.pages.dev)
 
+<img src=".github/typing.svg" alt="Typing animation: Hi, I'm Mohamed Alhinawi. Building cool stuff with MERN. I love clean code and scalable apps. Always learning and evolving." />
+
 </div>
 
 ---
