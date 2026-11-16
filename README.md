@@ -2,7 +2,7 @@
 
 # Mohamed Alhinawi
 
-### Product Builder - complete products on whatever stack fits, shipped end to end
+### Software Engineer - complete products on whatever stack fits, shipped end to end
 
 [![Portfolio](https://img.shields.io/badge/portfolio-hinawi.pages.dev-111827?style=for-the-badge)](https://hinawi.pages.dev)
 
