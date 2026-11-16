@@ -2,11 +2,11 @@
 
 ## <img src=".github/fire.png" alt="Fire" width="30" />&nbsp;Mohamed&nbsp;Alhinawi&nbsp;<img src=".github/fire.png" alt="Fire" width="30" />
 
-### Software Engineer - web apps, desktop apps and complete products on whatever stack fits, shipped end to end
+### Software Engineer - web apps and complete products on whatever stack fits, shipped end to end
 
 [![Portfolio](https://img.shields.io/badge/portfolio-hinawi.pages.dev-111827?style=for-the-badge)](https://hinawi.pages.dev)
 
-<img src=".github/typing.svg" alt="Typing animation: Hi, I'm Mohamed Alhinawi. I build whole products, end to end. Any stack, picked for the job. Web apps and desktop apps. Bots, stores, AI tools, 3D." />
+<img src=".github/typing2.svg" alt="Typing animation: Hi, I'm Mohamed Alhinawi. I build whole products, end to end. Any stack, picked for the job. Web apps with real polish. Bots, stores, AI tools, 3D." />
 
 </div>
 
