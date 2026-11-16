@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="520" height="170" viewBox="0 0 520 170" role="img" aria-label="Typing animation: Hi, I'm Mohamed Alhinawi. I build whole products, end to end. Any stack, picked for the job. Web apps and desktop apps. Bots, stores, AI tools, 3D.">
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="170" viewBox="0 0 520 170" role="img" aria-label="Typing animation: Hi, I'm Mohamed Alhinawi. I build whole products, end to end. Any stack, picked for the job. Web apps with real polish. Bots, stores, AI tools, 3D.">
   <style>
     text { font: 22px 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #0969da; }
     .cur { fill: #0969da; animation: cx 12s linear infinite, blink .9s steps(1) infinite; }
@@ -50,7 +50,7 @@
   <text x="28" y="34"  clip-path="url(#c1)">Hi, I'm Mohamed Alhinawi</text>
   <text x="28" y="66"  clip-path="url(#c2)">I build whole products, end to end</text>
   <text x="28" y="98"  clip-path="url(#c3)">Any stack, picked for the job</text>
-  <text x="28" y="130" clip-path="url(#c4)">Web apps and desktop apps</text>
+  <text x="28" y="130" clip-path="url(#c4)">Web apps with real polish</text>
   <text x="28" y="162" clip-path="url(#c5)">Bots, stores, AI tools, 3D</text>
   <g class="cy"><rect class="cur" x="28" y="13" width="13" height="24"/></g>
 </svg>
