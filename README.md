@@ -14,7 +14,7 @@
 
 ## What I ship
 
-Full products, end to end: design, frontend, backend, databases, deployment — most of
+Full products, end to end: design, frontend, backend, databases, deployment - most of
 them live on Cloudflare's edge, all of them in production today.
 
 | Project | What it is | Live |
