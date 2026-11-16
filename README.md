@@ -1,12 +1,12 @@
 <div align="center">
 
-# Mohamed Alhinawi
+# <img src=".github/fire.png" alt="Fire" width="50" /> Mohamed Alhinawi <img src=".github/fire.png" alt="Fire" width="50" />
 
-### <img src=".github/fire.png" alt="Fire" width="50" /> Software Engineer - complete products on whatever stack fits, shipped end to end <img src=".github/fire.png" alt="Fire" width="50" />
+### Software Engineer - apps, desktop apps and complete products on whatever stack fits, shipped end to end
 
 [![Portfolio](https://img.shields.io/badge/portfolio-hinawi.pages.dev-111827?style=for-the-badge)](https://hinawi.pages.dev)
 
-<img src=".github/typing.svg" alt="Typing animation: Hi, I'm Mohamed Alhinawi. I build whole products, end to end. Any stack, picked for the job. Web, bots, stores, AI tools, 3D." />
+<img src=".github/typing.svg" alt="Typing animation: Hi, I'm Mohamed Alhinawi. I build whole products, end to end. Any stack, picked for the job. Web, apps and desktop apps. Bots, stores, AI tools, 3D." />
 
 </div>
 
