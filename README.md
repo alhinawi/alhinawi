@@ -74,4 +74,4 @@ them live on Cloudflare's edge, all of them in production today.
 
 ---
 
-<p align="center">💻 Built with 💙 using React & Node - Powered by strong tea and late nights.</p>
+<p align="center">💻 Built with 💙 and whatever stack fits - powered by strong tea and late nights.</p>
