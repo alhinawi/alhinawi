@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="170" viewBox="0 0 520 170" role="img" aria-label="Typing animation: Hi, I&#x27;m Mohamed Alhinawi. I build products people actually use. From the first sketch to launch day. The right tools for each challenge. Always learning. Always improving.">
+  <style>
+    text { font: 22px 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #0969da; }
+    .cur { fill: #0969da; animation: cx 12s linear infinite, blink .9s steps(1) infinite; }
+    .cy  { animation: cy 12s linear infinite; }
+    .r1  { animation: t1 12s linear infinite; }
+    .r2  { animation: t2 12s linear infinite; }
+    .r3  { animation: t3 12s linear infinite; }
+    .r4  { animation: t4 12s linear infinite; }
+    .r5  { animation: t5 12s linear infinite; }
+    @media (prefers-color-scheme: dark) {
+      text { fill: #58a6ff; }
+      .cur { fill: #58a6ff; }
+    }
+    @keyframes t1 { 0% { width: 0; animation-timing-function: steps(24, end); } 12% { width: 316.8px; } 100% { width: 316.8px; } }
+    @keyframes t2 { 0% { width: 0; } 18% { width: 0; animation-timing-function: steps(36, end); } 30% { width: 475.2px; } 100% { width: 475.2px; } }
+    @keyframes t3 { 0% { width: 0; } 36% { width: 0; animation-timing-function: steps(35, end); } 48% { width: 462.0px; } 100% { width: 462.0px; } }
+    @keyframes t4 { 0% { width: 0; } 54% { width: 0; animation-timing-function: steps(34, end); } 66% { width: 448.8px; } 100% { width: 448.8px; } }
+    @keyframes t5 { 0% { width: 0; } 72% { width: 0; animation-timing-function: steps(34, end); } 84% { width: 448.8px; } 100% { width: 448.8px; } }
+    @keyframes cx {
+      0%   { transform: translateX(0);        animation-timing-function: steps(24, end); }
+      12%  { transform: translateX(316.8px);  animation-timing-function: steps(1, end); }
+      18%  { transform: translateX(0);        animation-timing-function: steps(36, end); }
+      30%  { transform: translateX(475.2px);  animation-timing-function: steps(1, end); }
+      36%  { transform: translateX(0);        animation-timing-function: steps(35, end); }
+      48%  { transform: translateX(462.0px);  animation-timing-function: steps(1, end); }
+      54%  { transform: translateX(0);        animation-timing-function: steps(34, end); }
+      66%  { transform: translateX(448.8px);     animation-timing-function: steps(1, end); }
+      72%  { transform: translateX(0);        animation-timing-function: steps(34, end); }
+      84%  { transform: translateX(448.8px);  animation-timing-function: steps(1, end); }
+      100% { transform: translateX(448.8px); }
+    }
+    @keyframes cy {
+      0%   { transform: translateY(0);      animation-timing-function: steps(1, end); }
+      18%  { transform: translateY(32px);   animation-timing-function: steps(1, end); }
+      36%  { transform: translateY(64px);   animation-timing-function: steps(1, end); }
+      54%  { transform: translateY(96px);   animation-timing-function: steps(1, end); }
+      72%  { transform: translateY(128px);  animation-timing-function: steps(1, end); }
+      100% { transform: translateY(128px); }
+    }
+    @keyframes blink { 0%, 55% { opacity: 1; } 56%, 100% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { .r1,.r2,.r3,.r4,.r5 { animation: none; width: 480px; } .cur { display: none; } }
+  </style>
+  <defs>
+    <clipPath id="c1"><rect class="r1" x="28" y="10"  width="0" height="28"/></clipPath>
+    <clipPath id="c2"><rect class="r2" x="28" y="42"  width="0" height="28"/></clipPath>
+    <clipPath id="c3"><rect class="r3" x="28" y="74"  width="0" height="28"/></clipPath>
+    <clipPath id="c4"><rect class="r4" x="28" y="106" width="0" height="28"/></clipPath>
+    <clipPath id="c5"><rect class="r5" x="28" y="138" width="0" height="28"/></clipPath>
+  </defs>
+  <text x="28" y="34"  clip-path="url(#c1)">Hi, I&#x27;m Mohamed Alhinawi</text>
+  <text x="28" y="66"  clip-path="url(#c2)">I build products people actually use</text>
+  <text x="28" y="98"  clip-path="url(#c3)">From the first sketch to launch day</text>
+  <text x="28" y="130" clip-path="url(#c4)">The right tools for each challenge</text>
+  <text x="28" y="162" clip-path="url(#c5)">Always learning. Always improving.</text>
+  <g class="cy"><rect class="cur" x="28" y="13" width="13" height="24"/></g>
+</svg>

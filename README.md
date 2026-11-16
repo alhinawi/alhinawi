@@ -2,11 +2,11 @@
 
 ## <img src=".github/fire.png" alt="Fire" width="30" />&nbsp;Mohamed&nbsp;Alhinawi&nbsp;<img src=".github/fire.png" alt="Fire" width="30" />
 
-### Software Engineer - web apps and complete products on whatever stack fits, shipped end to end
+### Thoughtful interfaces. Reliable systems. Useful software.
 
 [![Portfolio](https://img.shields.io/badge/portfolio-hinawi.pages.dev-111827?style=for-the-badge)](https://hinawi.pages.dev)
 
-<img src=".github/typing2.svg" alt="Typing animation: Hi, I'm Mohamed Alhinawi. I build whole products, end to end. Any stack, picked for the job. Web apps with real polish. Bots, stores, AI tools, 3D." />
+<img src=".github/typing-distinct.svg" alt="Typing animation: Hi, I&#x27;m Mohamed Alhinawi. I build products people actually use. From the first sketch to launch day. The right tools for each challenge. Always learning. Always improving." />
 
 </div>
 
@@ -14,8 +14,8 @@
 
 ## What I ship
 
-Full products, end to end: design, frontend, backend, databases, deployment - most of
-them live on Cloudflare's edge, all of them in production today.
+A selection of learning platforms, stores and tools, plus work in progress.
+Open a live project below to explore it.
 
 | Project | What it is | Live |
 | :-- | :-- | :-- |
@@ -27,6 +27,7 @@ them live on Cloudflare's edge, all of them in production today.
 | **egypti** | An independent Egypt travel guide in Arabic and English: verified places, honest labels, 18 themes, synced bookmarks | [egypti.pages.dev](https://egypti.pages.dev) |
 | **Deutschy** | German from A1 to C2 with real photos, five game modes and Egyptian Arabic explanations | [deutschy.pages.dev](https://deutschy.pages.dev) |
 | **Dokkany** | Enterprise e-commerce admin & analytics dashboard: catalog, KPIs, demo mode, smart pagination | [dokkany.vercel.app](https://dokkany.vercel.app) |
+| **Qaryati** | A village services web app for Egyptian villages | Coming soon |
 | **telegram-notifier** | A Telegram bridge for coding agents: task-finished alerts, approval buttons, and two-way control from your phone | `npx skills add alhinawi/telegram-notifier` |
 
 ---
