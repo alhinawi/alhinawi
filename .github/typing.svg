@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="520" height="140" viewBox="0 0 520 140" role="img" aria-label="Typing animation: Hi, I'm Mohamed Alhinawi. I build whole products, end to end. Any stack, picked for the job. Web, bots, stores, AI tools, 3D.">
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="170" viewBox="0 0 520 170" role="img" aria-label="Typing animation: Hi, I'm Mohamed Alhinawi. I build whole products, end to end. Any stack, picked for the job. Web, apps and desktop apps. Bots, stores, AI tools, 3D.">
   <style>
     text { font: 22px 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #0969da; }
     .cur { fill: #0969da; animation: cx 12s linear infinite, blink .9s steps(1) infinite; }
@@ -7,31 +7,36 @@
     .r2  { animation: t2 12s linear infinite; }
     .r3  { animation: t3 12s linear infinite; }
     .r4  { animation: t4 12s linear infinite; }
+    .r5  { animation: t5 12s linear infinite; }
     @media (prefers-color-scheme: dark) {
       text { fill: #58a6ff; }
       .cur { fill: #58a6ff; }
     }
-    @keyframes t1 { 0% { width: 0; animation-timing-function: steps(24, end); } 15% { width: 316.8px; } 100% { width: 316.8px; } }
-    @keyframes t2 { 0% { width: 0; } 22% { width: 0; animation-timing-function: steps(34, end); } 37% { width: 448.8px; } 100% { width: 448.8px; } }
-    @keyframes t3 { 0% { width: 0; } 44% { width: 0; animation-timing-function: steps(29, end); } 59% { width: 382.8px; } 100% { width: 382.8px; } }
-    @keyframes t4 { 0% { width: 0; } 66% { width: 0; animation-timing-function: steps(31, end); } 81% { width: 409.2px; } 100% { width: 409.2px; } }
+    @keyframes t1 { 0% { width: 0; animation-timing-function: steps(24, end); } 12% { width: 316.8px; } 100% { width: 316.8px; } }
+    @keyframes t2 { 0% { width: 0; } 18% { width: 0; animation-timing-function: steps(34, end); } 30% { width: 448.8px; } 100% { width: 448.8px; } }
+    @keyframes t3 { 0% { width: 0; } 36% { width: 0; animation-timing-function: steps(29, end); } 48% { width: 382.8px; } 100% { width: 382.8px; } }
+    @keyframes t4 { 0% { width: 0; } 54% { width: 0; animation-timing-function: steps(26, end); } 66% { width: 343.2px; } 100% { width: 343.2px; } }
+    @keyframes t5 { 0% { width: 0; } 72% { width: 0; animation-timing-function: steps(26, end); } 84% { width: 343.2px; } 100% { width: 343.2px; } }
     @keyframes cx {
       0%   { transform: translateX(0);        animation-timing-function: steps(24, end); }
-      15%  { transform: translateX(316.8px);  animation-timing-function: steps(1, end); }
-      22%  { transform: translateX(0);        animation-timing-function: steps(34, end); }
-      37%  { transform: translateX(448.8px);  animation-timing-function: steps(1, end); }
-      44%  { transform: translateX(0);        animation-timing-function: steps(29, end); }
-      59%  { transform: translateX(382.8px);    animation-timing-function: steps(1, end); }
-      66%  { transform: translateX(0);        animation-timing-function: steps(31, end); }
-      81%  { transform: translateX(409.2px);  animation-timing-function: steps(1, end); }
-      100% { transform: translateX(409.2px); }
+      12%  { transform: translateX(316.8px);  animation-timing-function: steps(1, end); }
+      18%  { transform: translateX(0);        animation-timing-function: steps(34, end); }
+      30%  { transform: translateX(448.8px);  animation-timing-function: steps(1, end); }
+      36%  { transform: translateX(0);        animation-timing-function: steps(29, end); }
+      48%  { transform: translateX(382.8px);  animation-timing-function: steps(1, end); }
+      54%  { transform: translateX(0);        animation-timing-function: steps(26, end); }
+      66%  { transform: translateX(343.2px);  animation-timing-function: steps(1, end); }
+      72%  { transform: translateX(0);        animation-timing-function: steps(26, end); }
+      84%  { transform: translateX(343.2px);  animation-timing-function: steps(1, end); }
+      100% { transform: translateX(343.2px); }
     }
     @keyframes cy {
-      0%   { transform: translateY(0);     animation-timing-function: steps(1, end); }
-      22%  { transform: translateY(32px);  animation-timing-function: steps(1, end); }
-      44%  { transform: translateY(64px);  animation-timing-function: steps(1, end); }
-      66%  { transform: translateY(96px);  animation-timing-function: steps(1, end); }
-      100% { transform: translateY(96px); }
+      0%   { transform: translateY(0);      animation-timing-function: steps(1, end); }
+      18%  { transform: translateY(32px);   animation-timing-function: steps(1, end); }
+      36%  { transform: translateY(64px);   animation-timing-function: steps(1, end); }
+      54%  { transform: translateY(96px);   animation-timing-function: steps(1, end); }
+      72%  { transform: translateY(128px);  animation-timing-function: steps(1, end); }
+      100% { transform: translateY(128px); }
     }
     @keyframes blink { 0%, 55% { opacity: 1; } 56%, 100% { opacity: 0; } }
   </style>
@@ -40,10 +45,12 @@
     <clipPath id="c2"><rect class="r2" x="28" y="42"  width="0" height="28"/></clipPath>
     <clipPath id="c3"><rect class="r3" x="28" y="74"  width="0" height="28"/></clipPath>
     <clipPath id="c4"><rect class="r4" x="28" y="106" width="0" height="28"/></clipPath>
+    <clipPath id="c5"><rect class="r5" x="28" y="138" width="0" height="28"/></clipPath>
   </defs>
   <text x="28" y="34"  clip-path="url(#c1)">Hi, I'm Mohamed Alhinawi</text>
   <text x="28" y="66"  clip-path="url(#c2)">I build whole products, end to end</text>
   <text x="28" y="98"  clip-path="url(#c3)">Any stack, picked for the job</text>
-  <text x="28" y="130" clip-path="url(#c4)">Web, bots, stores, AI tools, 3D</text>
+  <text x="28" y="130" clip-path="url(#c4)">Web, apps and desktop apps</text>
+  <text x="28" y="162" clip-path="url(#c5)">Bots, stores, AI tools, 3D</text>
   <g class="cy"><rect class="cur" x="28" y="13" width="13" height="24"/></g>
 </svg>
