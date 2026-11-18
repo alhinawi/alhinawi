@@ -27,7 +27,7 @@ Open a live project below to explore it.
 | **egypti** | An independent Egypt travel guide in Arabic and English: verified places, honest labels, 18 themes, synced bookmarks | [egypti.pages.dev](https://egypti.pages.dev) |
 | **Deutschy** | German from A1 to C2 with real photos, five game modes and Egyptian Arabic explanations | [deutschy.pages.dev](https://deutschy.pages.dev) |
 | **Dokkany** | Enterprise e-commerce admin & analytics dashboard: catalog, KPIs, demo mode, smart pagination | [dokkany.vercel.app](https://dokkany.vercel.app) |
-| **Qaryati** | A village services web app for Egyptian villages | Coming soon |
+| **Qaryati** | A village services web app for Egyptian villages | [qaryaty.pages.dev](https://qaryaty.pages.dev) |
 | **telegram-notifier** | A Telegram bridge for coding agents: task-finished alerts, approval buttons, and two-way control from your phone | `npx skills add alhinawi/telegram-notifier` |
 
 ---
