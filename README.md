@@ -19,6 +19,7 @@ Open a live project below to explore it.
 
 | Project | What it is | Live |
 | :-- | :-- | :-- |
+| **Qaryati** | A village services web app for Egyptian villages | [qaryaty.pages.dev](https://qaryaty.pages.dev) |
 | **Menschen.** | The Hueber Menschen A1 German coursebooks, fully interactive: real page flip, original audio, tap any word for its Egyptian Arabic meaning, self-checking exercises, accounts and a class leaderboard | [menscheny.pages.dev](https://menscheny.pages.dev) |
 | **Henglish Academy** | A complete English-learning academy in Egyptian Arabic: 16 full grammar courses, interactive tutor, 3D learning world, real-life simulators, placement tests and certificates | [henglish.pages.dev](https://henglish.pages.dev) |
 | **Chesti** | Learn chess like a friend explaining next to you: hands-on lessons, engine-checked puzzles, opening traps, miniatures, play the computer or a friend | [chesti.pages.dev](https://chesti.pages.dev) |
@@ -27,7 +28,6 @@ Open a live project below to explore it.
 | **egypti** | An independent Egypt travel guide in Arabic and English: verified places, honest labels, 18 themes, synced bookmarks | [egypti.pages.dev](https://egypti.pages.dev) |
 | **Deutschy** | German from A1 to C2 with real photos, five game modes and Egyptian Arabic explanations | [deutschy.pages.dev](https://deutschy.pages.dev) |
 | **Dokkany** | Enterprise e-commerce admin & analytics dashboard: catalog, KPIs, demo mode, smart pagination | [dokkany.vercel.app](https://dokkany.vercel.app) |
-| **Qaryati** | A village services web app for Egyptian villages | [qaryaty.pages.dev](https://qaryaty.pages.dev) |
 | **telegram-notifier** | A Telegram bridge for coding agents: task-finished alerts, approval buttons, and two-way control from your phone | `npx skills add alhinawi/telegram-notifier` |
 
 ---
